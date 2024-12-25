@@ -18,7 +18,28 @@ dependencies:
 
 ## Screenshots
 
-![Holdable Circular Button Example](assets/video.mp4)
 ![Holdable Circular Button Example](assets/screenshot.png)
+
+**Installation:**
+dependencies:
+  holdable_circular_button: ^0.0.1
+
+Example:
+class _HomeState extends State<Home> {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.white,
+      body: Center(
+        child: HoldableCircularButton(
+          progressColor: Colors.green,
+          buttonColor: Colors.red,
+          onComplete: () {},
+          icon: Icon(Icons.touch_app_outlined),
+        ),
+      ),
+    );
+  }
+}
 
 
