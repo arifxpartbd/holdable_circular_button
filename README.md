@@ -15,3 +15,10 @@ Add this to your `pubspec.yaml` file:
 ```yaml
 dependencies:
   holdable_circular_button: ^0.0.1
+
+## Screenshots
+
+![Holdable Circular Button Example](assets/video.mp4)
+![Holdable Circular Button Example](assets/screenshot.png)
+
+
