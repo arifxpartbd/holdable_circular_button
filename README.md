@@ -24,7 +24,7 @@ dependencies:
 dependencies:
   holdable_circular_button: ^0.0.1
 
-Example:
+**Example:**
 class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
