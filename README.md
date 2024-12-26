@@ -10,10 +10,10 @@ A customizable Flutter widget for a circular button with a progress indicator.
 
 ## Screen Recording
 
-<iframe width="400" height="850" src="https://debugcity.com/wp-content/uploads/2024/12/video.mp4" frameborder="0" allowfullscreen></iframe>
+<img src="https://debugcity.com/wp-content/uploads/2024/12/screen_recording.gif" width="350" alt="Screen Recording">
 
 
-<img src="https://debugcity.com/wp-content/uploads/2024/12/screenshot.png"  width="400" height="866" alt="">
+<img src="https://debugcity.com/wp-content/uploads/2024/12/screenshot.png"  width="350" height="600" alt="">
 
 ## Example
 ```dart
