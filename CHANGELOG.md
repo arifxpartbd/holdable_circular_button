@@ -9,3 +9,6 @@
 ## 0.0.3 
 - Example code added
 
+## 0.0.4
+- Screenshot added
+

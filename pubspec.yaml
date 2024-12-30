@@ -1,6 +1,6 @@
 name: holdable_circular_button
 description: "A customizable Flutter widget for a circular button with a progress indicator."
-version: 0.0.3
+version: 0.0.4
 homepage: "https://github.com/arifxpartbd/holdable_circular_button"
 
 environment:
@@ -19,4 +19,3 @@ dev_dependencies:
 flutter:
   assets:
     - assets/screenshot.png/
-    - assets/video.mp4/
