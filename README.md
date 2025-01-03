@@ -51,7 +51,7 @@ Add this to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  holdable_circular_button: ^0.0.1
+  holdable_circular_button: ^0.0.4
 
 
 
