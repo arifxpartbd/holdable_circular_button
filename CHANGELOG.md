@@ -12,3 +12,6 @@
 ## 0.0.4
 - Screenshot added
 
+## 0.0.5
+- Flutter version updated
+
